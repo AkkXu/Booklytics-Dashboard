@@ -62,4 +62,4 @@ Insights
    - https://github.com/AkkXu/Booklytics-Dashboard/tree/main
 2. Install required packages
 3. Start the dashboard
-4. Open your browser and go to: http://127.0.0.1:8050
+4. Open your browser and go to http://127.0.0.1:8050
