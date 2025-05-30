@@ -55,3 +55,10 @@ Insights
 3. Series books do not consistently yield higher prices or ratings
 
 **Note:** The dataset is synthetic. Insights derived here should not be used for actual business decisions.
+
+<br><br>
+**How to Start**
+1. Clone this repo:
+2. Install required packages:
+3. Start the dashboard
+4. Open your browser and go to: http://127.0.0.1:8050
