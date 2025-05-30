@@ -1,0 +1,11 @@
+#Packages that required for this project
+
+!pip install requests beautifulsoup4 pandas
+!pip install pandas matplotlib seaborn
+
+
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
